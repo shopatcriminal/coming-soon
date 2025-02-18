@@ -37,7 +37,7 @@ function getTimeRemaining(targetDate) {
     return { days, hours, minutes, seconds };
 }
 
-getTimeRemaining('Sat Feb 18 2025 18:30:34 GMT+0530 (India Standard Time)');
+getTimeRemaining('Sat Feb 24 2025 18:30:34 GMT+0530 (India Standard Time)');
 console.log(days)
 
 // Function to display the day value with leading zero if less than 10
